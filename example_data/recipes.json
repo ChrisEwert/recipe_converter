@@ -1,0 +1,38 @@
+{
+  "7f6bf78b-eb8e-4bd8-80be-c3ee39380c2c" : {
+    "id" : "7f6bf78b-eb8e-4bd8-80be-c3ee39380c2c",
+    "name" : "Pfannkuchen",
+    "author" : "John",
+    "dateOfCreation" : "2024-05-06",
+    "ingredients" : [ "3 Eier", "200ml Milch", "Prise Salz", "250g Weizenmehl (405)", "6 EL Öl" ],
+    "content" : [ "In einer Schüssel Eier, Milch und Salz verrühren.", "Mehl in die Schüssel sieben und zu einem leicht dickflüssigen Teig verrühren.", "In einer beschichteten Pfanne 1 EL Öl auf mittlerer Stufe erhitzen, 1 Kelle des Teiges in das heiße Öl geben und dünn in der Pfanne durch Neigen verteilen.", "Pfannkuchen ca. 1–2 Min. goldbraun ausbacken, bis er beginnt fest zu werden und sich vom Boden löst", "Pfannkuchen vorsichtig wenden und nochmals ca. 1 Min. von der anderen Seite goldbraun backen.", "Pfannkuchen beiseitestellen und Vorgang wiederholen, bis die Masse aufgebraucht ist." ],
+    "categories" : [ "Einfach", "Schnell" ],
+    "cookingTimeInMinutes" : 20,
+    "rating" : 4.5,
+    "ratingCount" : 2
+  },
+  "79eb1fd7-a1e9-44ea-a516-128662198eec" : {
+    "id" : "79eb1fd7-a1e9-44ea-a516-128662198eec",
+    "name" : "Brokkoli-Nudeln mit Hähnchen und Mais",
+    "author" : "Anna",
+    "dateOfCreation" : "2024-05-06",
+    "ingredients" : [ "Prise Salz", "Brokkoli", "40g Petersilie", "600g Hähnchenbrustfiltes", "500g Penne Rigate", "2 EL Öl", "Prise schwarzer Pfeffer", "150g Creme Fraiche", "285g Mais" ],
+    "content" : [ "In einem Topf ca. 1 l Salzwasser aufkochen. Brokkoli waschen, Röschen abbrechen, Strunk schälen und grob würfeln.", "Brokkoli im siedenden Salzwasser ca. 5 Min. bissfest garen, in ein Sieb abgießen und mit kaltem Wasser abschrecken.", "Topf säubern und erneut ca. 5 l Salzwasser zum Kochen bringen.", "Petersilie waschen, trocken schütteln, grobe Stiele entfernen und grob hacken.", "Hähnchen waschen, trocken tupfen, in ca. 2 cm breite Streifen schneiden und salzen.", "Nudeln im siedenden Salzwasser ca. 10 Min. bissfest garen.", "In einer Pfanne Öl auf hoher Stufe erhitzen, Hähnchenstreifen darin ca. 5 Min. goldbraun braten, pfeffern und aus der Pfanne nehmen.", "In einem hohen Gefäß Petersilie mit der Hälfte des Brokkolis fein pürieren.", "Übrigen Brokkoli mit Crème fraîche unterheben und in der Pfanne ca. 2 Min. erwärmen.", "Soße abschmecken.", "Mais abgießen und mit Hähnchen zur Brokkoli-Soße geben.", "Nudeln in das Sieb abgießen und Pasta im Topf mit Brokkoli-Soße, Mais und Hähnchen vermengen.", "Guten Appetit!" ],
+    "categories" : [ "Einfach" ],
+    "cookingTimeInMinutes" : 70,
+    "rating" : 0.0,
+    "ratingCount" : 0
+  },
+  "fa43e2ae-66e2-487a-8d35-17af778b320f" : {
+    "id" : "fa43e2ae-66e2-487a-8d35-17af778b320f",
+    "name" : "Kartoffel-Brokkoli-Auflauf",
+    "author" : "Bob",
+    "dateOfCreation" : "2024-05-09",
+    "ingredients" : [ "1 Liter Wasser", "Gemüsebrühepulver", "6 Kartoffeln", "2 Köpfe Brokkoli", "1 Zwiebel", "2 EL Margarine", "2 EL Mehl", "1 Pck. Sahne oder Sojasahne, ca. 200 ml", "Muskat", "Paprikapulver, edelsüßes", "Salz und Pfeffer", "Chilipulver", "Käse, geriebener, oder veganer Käse-Ersatz, ca. 150 - 200g" ],
+    "content" : [ "Das Wasser zum Kochen bringen und die Gemüsebrühe dazugeben.", "Währenddessen die Kartoffeln schälen und den Brokkoli putzen und in Röschen schneiden.", "Die Kartoffeln in Würfel schneiden in der Brühe gar kochen.", "Die Kartoffeln mit einem Schaumlöffel aus der Brühe nehmen", "Die Brokkoliröschen in der Brühe kochen.", "Beides in eine große Auflaufform geben.", "Für die Soße eine Zwiebel würfeln und in der Margarine glasig braten", "Das Mehl darüber streuen und eine Weile bräunen lassen", "Einen halben Liter von der Gemüsebrühe, in der Kartoffeln und Brokkoli gekocht wurden, hinzugeben und kurz andicken lassen", "Die Sahne hinzufügen", "Die Soße mit Muskat, Paprikapulver, Salz, Pfeffer und Chili gut würzen", "Die Soße in die Auflaufform geben, den Käse darüber streuen", "Bei 180 °C Ober-/Unterhitze ca. 20 - 25 min in den heißen Backofen stellen, bis der Käse schön braun ist." ],
+    "categories" : [ "Lecker", "Herzhaft" ],
+    "cookingTimeInMinutes" : 30,
+    "rating" : 0.0,
+    "ratingCount" : 0
+  }
+}

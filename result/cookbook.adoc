@@ -1,0 +1,140 @@
+= Cookbook
+:toc:
+:toclevels: 1
+
+== Brokkoli-Nudeln mit Hähnchen und Mais
+
+=== Attributes
+
+* **Author**: Anna
+* **Creation date**: 06.05.2024
+* **Categories**: Einfach
+* **Cooking time**: 01:10h
+
+=== Ingredients
+
+* Prise Salz
+* Brokkoli
+* 40g Petersilie
+* 600g Hähnchenbrustfiltes
+* 500g Penne Rigate
+* 2 EL Öl
+* Prise schwarzer Pfeffer
+* 150g Creme Fraiche
+* 285g Mais
+
+=== Cooking steps
+
+* Step 1
+** In einem Topf ca. 1 l Salzwasser aufkochen. Brokkoli waschen, Röschen abbrechen, Strunk schälen und grob würfeln.
+* Step 2
+** Brokkoli im siedenden Salzwasser ca. 5 Min. bissfest garen, in ein Sieb abgießen und mit kaltem Wasser abschrecken.
+* Step 3
+** Topf säubern und erneut ca. 5 l Salzwasser zum Kochen bringen.
+* Step 4
+** Petersilie waschen, trocken schütteln, grobe Stiele entfernen und grob hacken.
+* Step 5
+** Hähnchen waschen, trocken tupfen, in ca. 2 cm breite Streifen schneiden und salzen.
+* Step 6
+** Nudeln im siedenden Salzwasser ca. 10 Min. bissfest garen.
+* Step 7
+** In einer Pfanne Öl auf hoher Stufe erhitzen, Hähnchenstreifen darin ca. 5 Min. goldbraun braten, pfeffern und aus der Pfanne nehmen.
+* Step 8
+** In einem hohen Gefäß Petersilie mit der Hälfte des Brokkolis fein pürieren.
+* Step 9
+** Übrigen Brokkoli mit Crème fraîche unterheben und in der Pfanne ca. 2 Min. erwärmen.
+* Step 10
+** Soße abschmecken.
+* Step 11
+** Mais abgießen und mit Hähnchen zur Brokkoli-Soße geben.
+* Step 12
+** Nudeln in das Sieb abgießen und Pasta im Topf mit Brokkoli-Soße, Mais und Hähnchen vermengen.
+* Step 13
+** Guten Appetit!
+
+== Pfannkuchen
+
+=== Attributes
+
+* **Author**: John
+* **Creation date**: 06.05.2024
+* **Categories**: Einfach, Schnell
+* **Cooking time**: 20min
+
+=== Ingredients
+
+* 3 Eier
+* 200ml Milch
+* Prise Salz
+* 250g Weizenmehl (405)
+* 6 EL Öl
+
+=== Cooking steps
+
+* Step 1
+** In einer Schüssel Eier, Milch und Salz verrühren.
+* Step 2
+** Mehl in die Schüssel sieben und zu einem leicht dickflüssigen Teig verrühren.
+* Step 3
+** In einer beschichteten Pfanne 1 EL Öl auf mittlerer Stufe erhitzen, 1 Kelle des Teiges in das heiße Öl geben und dünn in der Pfanne durch Neigen verteilen.
+* Step 4
+** Pfannkuchen ca. 1–2 Min. goldbraun ausbacken, bis er beginnt fest zu werden und sich vom Boden löst
+* Step 5
+** Pfannkuchen vorsichtig wenden und nochmals ca. 1 Min. von der anderen Seite goldbraun backen.
+* Step 6
+** Pfannkuchen beiseitestellen und Vorgang wiederholen, bis die Masse aufgebraucht ist.
+
+== Kartoffel-Brokkoli-Auflauf
+
+=== Attributes
+
+* **Author**: Bob
+* **Creation date**: 09.05.2024
+* **Categories**: Lecker, Herzhaft
+* **Cooking time**: 30min
+
+=== Ingredients
+
+* 1 Liter Wasser
+* Gemüsebrühepulver
+* 6 Kartoffeln
+* 2 Köpfe Brokkoli
+* 1 Zwiebel
+* 2 EL Margarine
+* 2 EL Mehl
+* 1 Pck. Sahne oder Sojasahne, ca. 200 ml
+* Muskat
+* Paprikapulver, edelsüßes
+* Salz und Pfeffer
+* Chilipulver
+* Käse, geriebener, oder veganer Käse-Ersatz, ca. 150 - 200g
+
+=== Cooking steps
+
+* Step 1
+** Das Wasser zum Kochen bringen und die Gemüsebrühe dazugeben.
+* Step 2
+** Währenddessen die Kartoffeln schälen und den Brokkoli putzen und in Röschen schneiden.
+* Step 3
+** Die Kartoffeln in Würfel schneiden in der Brühe gar kochen.
+* Step 4
+** Die Kartoffeln mit einem Schaumlöffel aus der Brühe nehmen
+* Step 5
+** Die Brokkoliröschen in der Brühe kochen.
+* Step 6
+** Beides in eine große Auflaufform geben.
+* Step 7
+** Für die Soße eine Zwiebel würfeln und in der Margarine glasig braten
+* Step 8
+** Das Mehl darüber streuen und eine Weile bräunen lassen
+* Step 9
+** Einen halben Liter von der Gemüsebrühe, in der Kartoffeln und Brokkoli gekocht wurden, hinzugeben und kurz andicken lassen
+* Step 10
+** Die Sahne hinzufügen
+* Step 11
+** Die Soße mit Muskat, Paprikapulver, Salz, Pfeffer und Chili gut würzen
+* Step 12
+** Die Soße in die Auflaufform geben, den Käse darüber streuen
+* Step 13
+** Bei 180 °C Ober-/Unterhitze ca. 20 - 25 min in den heißen Backofen stellen, bis der Käse schön braun ist.
+

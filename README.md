@@ -7,4 +7,7 @@ The latter, written in Java, offers an interactive console where users can creat
 
 In contrast, this Rust project allows users to specify a link to a recipe JSON file. The content of the JSON file is then extracted and transformed into an MD file and an ADOC file.
 
-This results in a nicely organized cookbook.
+This results in 2 nicely organized cookbooks that are stored in a separate "results" directory.
+
+If you do not want to use the first project, you can use the example data, which you can find under "example_data/recipes.json". 
+The resulting cookbook files should correspond to those in "expected_results/".
